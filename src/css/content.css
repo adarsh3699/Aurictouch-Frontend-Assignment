@@ -69,3 +69,25 @@ select {
     align-self: baseline;
     margin-bottom: 56px;
 }
+
+.ag-theme-alpine-dark .ag-root-wrapper {
+    border: unset;
+    border-radius: 8px;
+  }
+
+  .ag-theme-alpine-dark .ag-header {
+    background-color: #1D1D1D;
+}
+
+.ag-theme-alpine-dark .ag-row-odd {
+    background-color: #2F2F2F;
+}
+
+.ag-theme-alpine-dark .ag-row-even {
+    background-color: #2F2F2F;
+}
+
+.ag-theme-alpine-dark .ag-paging-panel {
+    border: unset;
+    background-color: #1D1D1D;
+}
