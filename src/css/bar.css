@@ -1,0 +1,11 @@
+#bar {
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+
+#football {
+    margin: 27px 34px;
+}

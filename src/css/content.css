@@ -1,0 +1,71 @@
+#dropDownList {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: rgba(255, 255, 255, 0.1);
+    width: 1035px;
+    height: 138px;
+    margin: auto;
+    margin-top: 69px;
+}
+
+select {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    background: #1D1D1D;
+    color: white;
+    border: unset;
+    border-radius: 8px;
+    width: 311px;
+    padding: 16px 32px;
+}
+
+#playerDetails {
+    padding: 69px 32px 32px 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#playerProfle {
+    height: 620px;
+    width: 360px;
+    background: #1D1D1D;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#playerProfle img {
+    margin-top: 45px;
+}
+
+#aboutPlayer {
+    background: #2F2F2F;
+    border-radius: 8px;
+    width: 100%;
+    height: 316px !important;
+    color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+}
+
+#name {
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 72px;
+}
+
+#point {
+    font-size: 128px;
+    line-height: 172px;
+}
+
+#pointText {
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 16px;
+    align-self: baseline;
+    margin-bottom: 56px;
+}
