@@ -79,6 +79,10 @@ select {
     background-color: #1D1D1D;
 }
 
+.ag-center-cols-viewport {
+    background-color: #1D1D1D;
+}
+
 .ag-theme-alpine-dark .ag-row-odd {
     background-color: #2F2F2F;
 }
